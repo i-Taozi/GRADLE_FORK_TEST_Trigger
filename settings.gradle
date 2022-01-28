@@ -1,1 +1,1 @@
-include ':app', ':metadata'
+rootProject.name = 'craftbook'
